@@ -1,5 +1,5 @@
-http://www.ihere.club/2018/12/03/2018-北京
-http://www.ihere.club/2018/12/03/hexo-d-出现-ERROR-Deployer-not-found-git
-http://www.ihere.club/2019/01/04/IDEA配置模板注释
-http://www.ihere.club/2019/03/27/Hexo的一些基本命令
-http://www.ihere.club/2019/03/27/Docker复制文件
+http://www.ihere.club/2018/12/03/2018-北京/index.html
+http://www.ihere.club/2018/12/03/hexo-d-出现-ERROR-Deployer-not-found-git/index.html
+http://www.ihere.club/2019/01/04/IDEA配置模板注释/index.html
+http://www.ihere.club/2019/03/27/Hexo的一些基本命令/index.html
+http://www.ihere.club/2019/03/27/Docker复制文件/index.html
